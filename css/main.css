@@ -123,6 +123,7 @@ input[type="submit"],
   -ms-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
   box-shadow: 0 10px 10px -8px rgba(0, 0, 0, 0.22);
+  cursor: pointer;
 }
 .btn-primary:last-child,
 .btn-secondary:last-child,
